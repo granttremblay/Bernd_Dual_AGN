@@ -1,1 +1,1 @@
-# Bernd_Dual_AGN
+## Making *Chandra* and *Lynx* mock observations for Bernd's cool dual AGN at z=3.3
