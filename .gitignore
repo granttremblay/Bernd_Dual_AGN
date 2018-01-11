@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# the FITS images we create from the notebook
+*.fits
+
 # Distribution / packaging
 .Python
 env/
